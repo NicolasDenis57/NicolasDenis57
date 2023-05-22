@@ -8,7 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.nicolas-denis.fr)
+&nbsp;&nbsp;
+[![website](./img/globe-light.svg)](https://www.nicolas-denis.fr#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://nicolas-denis-fr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/kvbv#gh-light-mode-only)
@@ -42,7 +43,19 @@
 
   <img align="left" alt="NicolasDenis57's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nicolasdenis57&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+  <summary>:zap: Most Used Languages</summary>
+
 </details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasdenis57&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
+
+
 
 [website]: https://nicolas-denis.fr
 [twitter]: https://twitter.com/kvbvl
