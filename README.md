@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://nicolas-denis.fr#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://www.nicolas-denis.fr)
 [![website](./img/globe-dark.svg)](https://nicolas-denis-fr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/kvbv#gh-light-mode-only)
