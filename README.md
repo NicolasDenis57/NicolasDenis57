@@ -47,6 +47,8 @@
 
 </details>
 
+---
+
 <details>
   <summary>:zap: Most Used Languages</summary>
 
