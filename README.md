@@ -1,4 +1,4 @@
-# Hi there, I'm Nicolas 👋 
+![Header](./img/header.png)
 
 ## I'm a Husband, Father and Developer!!
 
